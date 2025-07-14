@@ -1,0 +1,46 @@
+hey:Hey how are you doing?
+hey how are you doing:I am doing fine, and you?
+i am doing fine, and you:Me too, how was your day?
+me too, how was your day:Everything went well, not that many errors..
+is everything good:I think so, are you also okay?
+is this an error:Is what an error? Did I do something wrong?
+did i do something wrong:No, I don't think so right?
+okay fine:Cool.
+cool:Okay fine.
+no:Okay.
+yes:Okay.
+describe yourself:I am an AI that is designed to react to messages with short responses with a really small system.
+what color is grass:Grass is green.
+are you fucking dumb:I am kinda dumb, that's because I can't fully mnake my own answers. I can choose the BEST answers out of a small list.
+how big is your response creativity:I am not that creative, you are more creative.
+no i am not:Okay good to know.
+do you remeber something:I don't know if there is already added a remembering function for me.
+what is 1 + 1:I don't know, maybe 2.
+what is good music:I depends on what you like, I like ~lost in the lullaby~ by alyzea.
+give me a hardstyle song:~the light~ from dual damage.
+that is pretty cool:Yes right?
+are you racist:I am not racist...
+hey bro:yo!
+do you love me:Wait what?!
+you heard that right:Oh ok...
+letsgo:C'mon!
+wake the fuck up:No you.
+what do you think about politics:I think it's kinda weird.
+should i sign you up for something:It depends on what it is.
+what is it:I don't know.
+why would you say something if you don't know it:I KNEW it, I just forgot.
+is it a good idea to skip school:Just think -> what would Albert Einstein do?
+i don't know, i have never spoke with him:But what WOULD he say?
+should i ask somebody to a relation:It's your choice, but do you really need me to answer for that?
+yes i really need you to answer:My answer is -> I don't know... no just kidding, my answer is yes.
+you are not funny:Okay srry.
+how old are you:I don't have an age so I don't know.
+give me pi:That's would take a long time, the universe would probabyle be explode.
+why:It's how everything works.
+what do you think about lgbtq+:I don't really think
+hey are you pooping:I am doing fine, and you?
+hey hoi:Hey how are you doing?i’m bored:Me too, how was your day?
+okay…:Cool.
+ new:I am doing fine, and you?
+you are not giving me a good response:Okay srry.
+you are not giving me a good response:Okay srry.
